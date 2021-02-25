@@ -1,4 +1,4 @@
-# bloc_test
+# Weather app
 
 A new Flutter project.
 
